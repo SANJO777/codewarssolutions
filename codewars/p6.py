@@ -1,0 +1,3 @@
+def move(position, roll): #roll 1 to 6. And position left to right (- or + number). Sólo usar números negativos si el videojuego permite retroceder.
+    return position + roll * 2 #da la nueva posición para ir adelante siempre, sumando la posición con el número entre 1 al 6 del dado y múltiplicado por 2 para obtener la nueva posición.
+#print(move(2, 5)) #print y función con argumentos de debugging para comprobar el resultado adecuado que se retorna.

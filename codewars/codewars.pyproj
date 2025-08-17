@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>bec14519-f704-44b1-bb93-f61396563c39</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>p8.py</StartupFile>
+    <StartupFile>p9.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -29,6 +29,7 @@
     <Compile Include="p6.py" />
     <Compile Include="p7.py" />
     <Compile Include="p8.py" />
+    <Compile Include="p9.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in

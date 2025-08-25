@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>bec14519-f704-44b1-bb93-f61396563c39</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>p12.py</StartupFile>
+    <StartupFile>p14.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -25,6 +25,8 @@
     <Compile Include="p10.py" />
     <Compile Include="p11.py" />
     <Compile Include="p12.py" />
+    <Compile Include="p13.py" />
+    <Compile Include="p14.py" />
     <Compile Include="p2.py" />
     <Compile Include="p3.py" />
     <Compile Include="p4.py" />
